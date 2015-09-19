@@ -1,2 +1,6 @@
 # rustchain
 
+## License
+
+MIT
+
