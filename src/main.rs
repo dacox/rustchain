@@ -5,7 +5,7 @@ use std::io::{Read};
 use byteorder::{LittleEndian, ReadBytesExt};
 
 fn main() {
-    let mut fh = File::open("../../blk00000.dat").unwrap();
+    let mut fh = File::open("blk00000.dat").unwrap();
      
     loop {
         
