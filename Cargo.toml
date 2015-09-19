@@ -1,0 +1,9 @@
+[package]
+
+name = "rustchain"
+version = "0.1.0"
+authors = ["Doug Cox <dougcoxs1@gmail.com>"]
+
+[dependencies]
+
+byteorder = "0.3.13"
